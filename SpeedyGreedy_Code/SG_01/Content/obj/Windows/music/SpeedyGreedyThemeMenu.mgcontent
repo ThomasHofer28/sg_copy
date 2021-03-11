@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/music/SpeedyGreedyThemeMenu.mp3</SourceFile>
+  <SourceTime>2020-05-09T01:34:52.2466981+02:00</SourceTime>
+  <DestFile>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/bin/Windows/music/SpeedyGreedyThemeMenu.xnb</DestFile>
+  <DestTime>2020-06-16T23:01:10.5478798+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/bin/Windows/music/SpeedyGreedyThemeMenu.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

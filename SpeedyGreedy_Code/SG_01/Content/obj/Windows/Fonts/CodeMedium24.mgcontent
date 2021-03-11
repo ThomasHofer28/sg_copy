@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/MMT/2.SEM/SpeedyGreedy1.0/SG_01/SG_01/Content/Fonts/CodeMedium24.spritefont</SourceFile>
+  <SourceTime>2020-04-28T20:58:16.913948+02:00</SourceTime>
+  <DestFile>C:/MMT/2.SEM/SpeedyGreedy1.0/SG_01/SG_01/Content/bin/Windows/Fonts/CodeMedium24.xnb</DestFile>
+  <DestTime>2020-05-18T17:22:13.3702482+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Beani.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/BeaniStanding.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/blood.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Cactus.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/CactusGhost.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/coin.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/EndTemplate.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/GameTemplate.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/GameTemplateStart.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/IntroTemplate.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Kelpi.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/KelpiStanding.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/LearnTemplate.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/MenuTemplate.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Natscho.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/NatschoStanding.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Quicksand.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Salsa.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/SalsaStanding.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/Sand.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/images/vulture.png</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/music/deathsound.wav</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/music/SpeedyGreedyThemeGame.mp3</File>
+    <File>C:/MMT/2.SEM/MMP1_GIT/hofer_thomas_mmp1/SpeedyGreedy_Code/SG_01/Content/music/SpeedyGreedyThemeMenu.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
